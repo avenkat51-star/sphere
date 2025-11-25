@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Copy of Copy of Copy of Sphere Social",
+  "description": "A next-generation social media platform featuring AI-assisted content creation and intelligent interaction.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
